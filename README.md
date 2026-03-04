@@ -6,5 +6,5 @@ Repositorio de la materia.
 
 El repositorio está organizado por clases:
 
-- `Clase 0/`
+- `Clase 0/` — Instructivo para configurar el entorno de trabajo básico
 - `Clase 1/`
